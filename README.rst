@@ -1,7 +1,7 @@
 QuantReg 
 =========
 
-a Python library that makes it easy to access and parse data from quantreg in R programming language.
+A Python wrapper for quantreg in R programming language.
 
 Installation
 ------------
