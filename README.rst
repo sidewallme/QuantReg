@@ -3,7 +3,8 @@ QuantReg
 
 a Python library that makes it easy to access and parse data from quantreg in R programming language.
 
-*Installation*
+Installation
+------------
 
 .. code:: python
 
@@ -17,7 +18,8 @@ a Python library that makes it easy to access and parse data from quantreg in R 
   >>> print(fit)
   # {'Coefficients': {'Intercept': 11.195980483128324, 'foodexp': 1.378005107774296}, 'Time (s)': 0.01637101173400879}
   
-*Documentation*
+Documentation
+------------
 
 Read the docs at https://cran.r-project.org/web/packages/quantreg/quantreg.pdf
 
@@ -28,7 +30,9 @@ Read the docs at https://cran.r-project.org/web/packages/quantreg/quantreg.pdf
   >>> # to use pogs, add method = "pogs" parameter
   >>> fit = qr_model.fit_pogs(data[['foodexp', ]], data['income'], tau = 0.3, method = "pogs")
   
-*License*
+License
+------------
 
-*Credit*
+Credit
+------------
 
