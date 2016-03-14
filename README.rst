@@ -1,9 +1,9 @@
-# QuantReg
+*QuantReg*
 A Python wrapper for quantreg
 
 QuantReg is a Python library that makes it easy to access and parse data from quantreg in R programming language.
 
-## Installation
+**Installation**
 .. code:: python
 
   >>> from quantreg.qr import quantreg
@@ -16,9 +16,9 @@ QuantReg is a Python library that makes it easy to access and parse data from qu
   >>> print(fit)
   # {'Coefficients': {'Intercept': 11.195980483128324, 'foodexp': 1.378005107774296}, 'Time (s)': 0.01637101173400879}
   
-## Documentation
+**Documentation**
 
-## License
+**License**
 
-## Credit
+**Credit**
 
