@@ -1,9 +1,10 @@
-*QuantReg*
-A Python wrapper for quantreg
+QuantReg 
+=========
 
-QuantReg is a Python library that makes it easy to access and parse data from quantreg in R programming language.
+a Python library that makes it easy to access and parse data from quantreg in R programming language.
 
 **Installation**
+
 .. code:: python
 
   >>> from quantreg.qr import quantreg
