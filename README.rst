@@ -6,6 +6,9 @@ a Python library that makes it easy to access and parse data from quantreg in R 
 Installation
 ------------
 
+Example
+------------
+
 .. code:: python
 
   >>> from quantreg.qr import quantreg
